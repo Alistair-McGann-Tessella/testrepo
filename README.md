@@ -1,12 +1,2 @@
 # testrepo
-Does nothing but test
-
-asdfasfdasdfasfd
-Add another line
-Third line third attempt
-
-
-afsdaafdasfasffadsfdsafdsafdsafd
-
-
-asdfasdffdad
+I've rewritten this, so the zip file no longer follows the repo
